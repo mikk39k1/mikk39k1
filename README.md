@@ -4,8 +4,8 @@
 
 <img 
   align="left" 
-  alt="Alex793x's GitHub Stats" 
-  src="http://test-pink-two-75.vercel.app/api?username=mikk39k1x&show_icons=true&hide_border=true&theme=dracula" 
+  alt="mikk39k1's GitHub Stats" 
+  src="http://test-pink-two-75.vercel.app/api?username=mikk39k1&show_icons=true&hide_border=true&theme=dracula" 
 />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikk39k1&langs_count=5&theme=dracula&hide_border=true)
